@@ -1,0 +1,11 @@
+.item > img {
+  height: 100px;
+}
+body {
+  background-image: url(linedpaper.png);
+  background-attachment: fixed;
+  background-repeat: repeat;
+}
+h1 {
+  font-weight: bold;
+}
